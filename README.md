@@ -5,13 +5,13 @@ L'objectif est d'abord de prendre en main nuScenes, puis d'essayer de prédire e
 d'abord avec une seul voiture sur la même voie, puis en rajoutant un piéton qui traverse, etc...
 
 ## Découverte 
-Prise en main du jeu de données nuscens, prédiction des clignotants gauche et droit
+Prise en main du jeu de données nuScenes, prédiction des clignotants gauche et droit
 
 ## Prédiciton accélération freinage 
 Notebook dont le but est de prédire l'accélération et le freinage par rapport à l'envirronnement 
 
 ## Mode_simulation
-Notebook regroupant les différents essais de simulation de scènes
+Notebook regroupant les différents essais de simulation de scènes avec matplotlib
 
 ## Data
 Ensemble de données .csv 
