@@ -1,6 +1,7 @@
 # machine_learning_for_autonomous_driving
 
 English:
+
 Set of python notebook for application of machine learning  on self driving car, create during an internship at IRIT (Toulouse) using nuScenes (link below).
 The aim is to predict first acceleration and braking on simple environment (one car), and add more complexity gradually. 
 
